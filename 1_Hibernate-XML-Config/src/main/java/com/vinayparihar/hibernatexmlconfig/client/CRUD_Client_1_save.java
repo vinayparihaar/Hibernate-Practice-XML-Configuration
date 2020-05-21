@@ -20,9 +20,9 @@ public class CRUD_Client_1_save {
 
 		Employee employee = new Employee();
 		// employee.setEmployeeId(1);
-		employee.setEmployeeFirstName("Laxmi");
+		employee.setEmployeeFirstName("Aariya");
 		employee.setEmployeeLastName("Parihar");
-		employee.setEmployeeEmail("vinay@gmail.com");
+		employee.setEmployeeEmail("aariya@gmail.com");
 		employee.setEmployeePhone("0000000000");
 
 		Configuration configuration = new Configuration();
